@@ -205,8 +205,4 @@ Go to `http://localhost:8080/swagger-ui.html` â†’ expand **POST /api/events** â†
 
 ---
 
-## Thank You
-
-Thank you for taking the time to review our project. We put genuine effort into building this system from scratch â€” designing the backend architecture, connecting it to a live database, and creating a clean frontend experience for students. We hope this work clearly demonstrates our understanding of full-stack web development using Spring Boot and Vue.js.
-
-â€” Mugisha Julien, Uwitonze Adeline, Mutabazi Hans & Gatabazi Uwera Getrude
+## Thank You\r\n\r\nThank you for reviewing our work — Mugisha Julien, Uwitonze Adeline, Mutabazi Hans & Gatabazi Uwera Getrude.
