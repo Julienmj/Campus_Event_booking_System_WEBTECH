@@ -150,7 +150,7 @@ FRONTEND/src/
 
 ![Student registering](Screenshots/student%20viewing%20available%20seats%20and%20registering.png)
 
-### After Successful Registration
+### After Successful Registration on STudent's ceremony event
 
 ![After booking](Screenshots/front-end%20interface%20after%20booking%20after%20a%20student%20registered%20for%20student%20ceremony.png)
 
