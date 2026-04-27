@@ -202,3 +202,11 @@ Frontend starts at `http://localhost:5173`
 ### 5. Add Events via Swagger
 
 Go to `http://localhost:8080/swagger-ui.html` → expand **POST /api/events** → click **Try it out** → fill in the event details and click **Execute**. The event will instantly appear on the frontend.
+
+---
+
+## Thank You
+
+Thank you for taking the time to review our project. We put genuine effort into building this system from scratch — designing the backend architecture, connecting it to a live database, and creating a clean frontend experience for students. We hope this work clearly demonstrates our understanding of full-stack web development using Spring Boot and Vue.js.
+
+— Mugisha Julien, Uwitonze Adeline, Mutabazi Hans & Gatabazi Uwera Getrude
